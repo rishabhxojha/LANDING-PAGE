@@ -13,5 +13,5 @@ Build with:
 Screenshot of the project 📸
 _________________________________________________________________________________________________________________________________________________
 
-![Screenshot 2024-06-22 001738](https://github.com/rishabhxojha/LANDING-PAGE/assets/153063710/f99ddcd9-f9de-48ac-a389-adf78f08bef0)About the project
+![Screenshot 2024-06-22 001738](https://github.com/rishabhxojha/LANDING-PAGE/assets/153063710/f99ddcd9-f9de-48ac-a389-adf78f08bef0)
 
