@@ -2,7 +2,7 @@ About the project
 ________________________________________________________________________________________________________________________________________________
 A landing page for selling and buying is a dedicated web page focused on converting visitors into customers by encouraging them to purchase a product or service. This type of landing page aims to highlight the value of the offering and guide the visitor through the buying process.
 
-👉 Live Demo: http:LANDINGPAGE/index.html
+👉 Live Demo: http://LANDINGPAGE/index.html 
 
 Build with:
 
